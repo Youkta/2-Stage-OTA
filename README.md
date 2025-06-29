@@ -20,7 +20,7 @@ This project involves the **design and simulation of a two-stage Operational Amp
 | Parameter              | Target Value  |
 |------------------------|---------------|
 | Supply Voltage (Vdd)   | 1.8 V         |
-| DC Gain                | ≥ 60 dB       |
+| DC Gain                | ≥ 40 dB       |
 | GBW                    | ≥ 10 MHz      |
 | Phase Margin           | ≥ 60°         |
 | Slew Rate              | ≥ 20 V/μs     |
